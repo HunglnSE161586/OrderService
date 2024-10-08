@@ -1,0 +1,14 @@
+C:\Users\HUNG\OneDrive\Desktop\PRN231\OrderService\OrderLib\bin\Debug\net6.0\OrderLib.deps.json
+C:\Users\HUNG\OneDrive\Desktop\PRN231\OrderService\OrderLib\bin\Debug\net6.0\OrderLib.runtimeconfig.json
+C:\Users\HUNG\OneDrive\Desktop\PRN231\OrderService\OrderLib\bin\Debug\net6.0\OrderLib.dll
+C:\Users\HUNG\OneDrive\Desktop\PRN231\OrderService\OrderLib\bin\Debug\net6.0\OrderLib.pdb
+C:\Users\HUNG\OneDrive\Desktop\PRN231\OrderService\OrderLib\obj\Debug\net6.0\OrderLib.csproj.AssemblyReference.cache
+C:\Users\HUNG\OneDrive\Desktop\PRN231\OrderService\OrderLib\obj\Debug\net6.0\OrderLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HUNG\OneDrive\Desktop\PRN231\OrderService\OrderLib\obj\Debug\net6.0\OrderLib.AssemblyInfoInputs.cache
+C:\Users\HUNG\OneDrive\Desktop\PRN231\OrderService\OrderLib\obj\Debug\net6.0\OrderLib.AssemblyInfo.cs
+C:\Users\HUNG\OneDrive\Desktop\PRN231\OrderService\OrderLib\obj\Debug\net6.0\OrderLib.csproj.CoreCompileInputs.cache
+C:\Users\HUNG\OneDrive\Desktop\PRN231\OrderService\OrderLib\obj\Debug\net6.0\OrderLib.dll
+C:\Users\HUNG\OneDrive\Desktop\PRN231\OrderService\OrderLib\obj\Debug\net6.0\refint\OrderLib.dll
+C:\Users\HUNG\OneDrive\Desktop\PRN231\OrderService\OrderLib\obj\Debug\net6.0\OrderLib.pdb
+C:\Users\HUNG\OneDrive\Desktop\PRN231\OrderService\OrderLib\obj\Debug\net6.0\OrderLib.genruntimeconfig.cache
+C:\Users\HUNG\OneDrive\Desktop\PRN231\OrderService\OrderLib\obj\Debug\net6.0\ref\OrderLib.dll
